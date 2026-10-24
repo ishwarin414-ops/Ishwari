@@ -1,1 +1,1 @@
-hello git users !
+hello git users ! welcome to git bash
